@@ -1,0 +1,5 @@
+payload:
+  - '+.openai.com'
+  - '+arkoselabs.com'
+  - '+oaistatic.com'
+  - '+oaiusercontent.com'
